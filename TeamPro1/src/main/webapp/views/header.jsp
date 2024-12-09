@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	최윤성은 바보입니다. 
 </body>
 </html>
