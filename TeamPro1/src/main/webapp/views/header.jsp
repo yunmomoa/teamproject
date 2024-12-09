@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	아무고나 쓰셈~\ㅓ..ㅏ/ 
+  아무고나 쓰셈~\ㅓ..ㅏ/ 
 </body>
 </html>
